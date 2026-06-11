@@ -23,6 +23,8 @@ let image = document.querySelector('.image');
 
 contentButton.addEventListener('click', function () {
     myName.innerHTML = "random"
+    myHobby.innerHTML = "running"
+    myLocation.innerHTML = "indiana"
 });
 
 // 3. Add an event listener to the `image1Button`
